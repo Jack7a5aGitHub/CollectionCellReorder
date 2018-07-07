@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "be4c19f2cbdc57efb0f1c8facf866501"
+build_time: [1530970970, 5166000]
+inputs:
+  "/Users/jackwong/Desktop/Developer/CollectionCellReorder/CollectionCellReorder/ViewController.swift": [1530970969, 0]
+  "/Users/jackwong/Desktop/Developer/CollectionCellReorder/CollectionCellReorder/CustomCell.swift": [1530970060, 0]
+  "/Users/jackwong/Desktop/Developer/CollectionCellReorder/CollectionCellReorder/AppDelegate.swift": [1530967081, 0]
